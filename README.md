@@ -1,4 +1,4 @@
-# Microbiome papers with hands on tasks 
+# Microbiome papers with hands on 
 This repository contains some microbiome papers seem to be useful for hands on analystical tasks in particular 16S analysis
 
 
