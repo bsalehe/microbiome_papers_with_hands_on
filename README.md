@@ -10,3 +10,7 @@ https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/cpbi.100
 ## A high-resolution pipeline for 16S-sequencing identifies bacterial strains in human microbiome
 
 https://www.biorxiv.org/content/10.1101/565572v1.full
+
+## A practical guide to DNA metabarcoding for entomological ecologists
+
+https://onlinelibrary.wiley.com/doi/10.1111/een.12831
